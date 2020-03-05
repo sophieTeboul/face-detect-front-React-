@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: 'Courier New', 'Courier', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background:  linear-gradient( 88.8deg,  rgba(239,171,245,1) 13.4%, rgba(196,181,249,1) 76.3% );
+}
+
+button {
+	cursor: pointer;
+}
