@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## THIS IS ONLY THE FRONT END, YOU NEED TO ADD THE SERVER FOR THE APP TO WORK
+## To connect to the app, use this username :
+email : john@gmail.com
+
+password: cookies
+
+![](face-detect.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
